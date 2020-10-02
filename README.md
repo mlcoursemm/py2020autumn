@@ -29,7 +29,7 @@
 ## <a name="program" /> Программа курса 
 | Номер         | Дата          | Лекция                                      | Примечание                              |
 | ------------- | ------------- | -------------                               | -------------                           |   
-| 01            | 02.10.2020    | [Основы Python](https://github.com/mlcoursemm/py2020autumn/blob/master/Python1_basics.ipynb)                                     |                |
+| 01            | 02.10.2020    | [Основы Python](https://github.com/mlcoursemm/py2020autumn/blob/master/lectures/Python1_basics.ipynb)                                     |                |
 | 02            | 16.10.2020    | Списки, множества и словари. File I/O. Функции    |  |
 | 03            | 23.10.2020    | ООП              |   |
 | 04            | 30.10.2020    | Numpy                       |                | 
