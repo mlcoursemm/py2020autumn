@@ -27,7 +27,7 @@
 ## <a name="marks" /> Результаты выполнения заданий
 * [Итоговая таблица с результатами](https://docs.google.com/spreadsheets/d/1qouDyNQo6IeNy2S9PxorO3U9MFoBDlwhPNBSljamZXY/edit?usp=sharing)
 ## <a name="program" /> Программа курса 
-| Номер         | Дата          | Лекция                                      | Примечание                              |
+| Номер         | Дата          | Лекция                                      | ДЗ                              |
 | ------------- | ------------- | -------------                               | -------------                           |   
 | 01            | 02.10.2020    | [Основы Python](https://github.com/mlcoursemm/py2020autumn/blob/master/lectures/Python01-basics.ipynb)                                     |                |
 | 02            | 16.10.2020    | [Списки, множества и словари. Функции. Импорт](https://github.com/mlcoursemm/py2020autumn/blob/master/lectures/Python02-basics2.ipynb)    |  |
