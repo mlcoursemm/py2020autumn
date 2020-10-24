@@ -27,18 +27,18 @@
 ## <a name="marks" /> Результаты выполнения заданий
 * [Итоговая таблица с результатами](https://docs.google.com/spreadsheets/d/1qouDyNQo6IeNy2S9PxorO3U9MFoBDlwhPNBSljamZXY/edit?usp=sharing)
 ## <a name="program" /> Программа курса 
-| Номер         | Дата          | Лекция                                      | ДЗ                              |
-| ------------- | ------------- | -------------                               | -------------                           |   
-| 01            | 02.10.2020    | [Основы Python](https://github.com/mlcoursemm/py2020autumn/blob/master/lectures/Python01-basics.ipynb)                                     |                |
-| 02            | 16.10.2020    | [Списки, множества и словари. Функции. Импорт](https://github.com/mlcoursemm/py2020autumn/blob/master/lectures/Python02-basics2.ipynb)    |  |
-| 03            | 23.10.2020    | ООП              |   |
+| Номер         | Дата          | Лекция                                      | ДЗ                              | Лектор |
+| ------------- | ------------- | -------------                               | -------------                           | ------------- |
+| 01            | 02.10.2020    | [Основы Python](lectures/Python01-basics.ipynb)|                | к.ф.-м.н. Иванюта А. С.|
+| 02            | 16.10.2020    | [Списки, множества и словари. Функции. Импорт](lectures/Python02-basics2.ipynb)|  | к.ф.-м.н. Иванюта А. С.|
+| 03            | 23.10.2020    | [Основы объектно-ориентированного программирования в Python](lectures/Python03-OOP.ipynb)|   | Корвяков В. П. |
 | 04            | 30.10.2020    | Numpy                       |                | 
-| 05            | 06.11.2020    | Лучшие практики (исключения, декораторы и др)                           |  | 
-| 06            | 13.11.2020    | Pandas                                               |  | 
-| 07            | 20.11.2020    | Matplotlib / seaborn + разведывательный анализ                   | | 
-| 08            | 27.11.2020    | scikit-learn                                          |  | 
-| 09            | 04.12.2020    | Работа с изображениями: opencv (cv::mat), scikit-image, PIL                                          |  | 
-| 10            | 11.12.2020    | Дополнительные главы: параллельное и веб-программирование                           |                  | 
+| 05            | 06.11.2020    | Лучшие практики (исключения, декораторы и др)                           |  |  | 
+| 06            | 13.11.2020    | Pandas                                               |  |  |
+| 07            | 20.11.2020    | Matplotlib / seaborn + разведывательный анализ                   | |  |
+| 08            | 27.11.2020    | scikit-learn                                          |  |  |
+| 09            | 04.12.2020    | Работа с изображениями: opencv (cv::mat), scikit-image, PIL                                          |  |  |
+| 10            | 11.12.2020    | Дополнительные главы: параллельное и веб-программирование                           |                  |  |
 
 ## <a name="lit" /> Список литературы
 1.	Lutz, Mark. Learning python: Powerful object-oriented programming. O'Reilly Media, Inc., 5th Edition, 2013.
