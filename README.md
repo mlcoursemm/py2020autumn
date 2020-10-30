@@ -32,7 +32,7 @@
 | 01            | 02.10.2020    | [Основы Python](lectures/Python01-basics.ipynb)|                | Иванюта А. С.|
 | 02            | 16.10.2020    | [Списки, множества и словари. Функции. Импорт](lectures/Python02-basics2.ipynb)|  | Иванюта А. С.|
 | 03            | 23.10.2020    | [Основы объектно-ориентированного программирования в Python](lectures/Python03-OOP.ipynb)|   | Корвяков В. П. |
-| 04            | 30.10.2020    | [Numpy](lectures/Python04-Numpy.ipynb) | [Классификация и регрессия](assignments/Assignment01.ipynb)) | Петюшко А. А. |
+| 04            | 30.10.2020    | [Numpy](lectures/Python04-Numpy.ipynb) | [Классификация и регрессия](assignments/Assignment01.ipynb) | Петюшко А. А. |
 | 05            | 06.11.2020    | Лучшие практики (исключения, декораторы и др)                           |  |  | 
 | 06            | 13.11.2020    | Pandas                                               |  |  |
 | 07            | 20.11.2020    | Matplotlib / seaborn + разведывательный анализ                   | |  |
