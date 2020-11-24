@@ -10,7 +10,7 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
-* (2020-10-30) Выложено первое [домашнее задание](assignments/Assignment01.ipynb) по классификации и регрессии, а также минимальный [поясняющий материал](assignments/Assignment01_extra/theory_sgd_regression.pdf) к нему
+* (2020-11-20) Выложено второе [домашнее задание](assignments/Assignment_pandas/pandas_task.pdf) по Pandas
 * (2020-10-30) Выложено первое [домашнее задание](assignments/Assignment01.ipynb) по классификации и регрессии, а также минимальный [поясняющий материал](assignments/Assignment01_extra/theory_sgd_regression.pdf) к нему
 * (2020-09-29) Создан данный репозиторий
 * Первое занятие состоится в пятницу, 02 октября, в 18:00 онлайн в Zoom (ссылка будем разослана в соотв. канале) 
@@ -36,8 +36,8 @@
 | 03            | 23.10.2020    | [Основы объектно-ориентированного программирования в Python](lectures/Python03-OOP.ipynb)|   | Корвяков В. П. |
 | 04            | 30.10.2020    | [Numpy](lectures/Python04-Numpy.ipynb) | [Классификация и регрессия](assignments/Assignment01.ipynb) | Петюшко А. А. |
 | 05            | 06.11.2020    | [Лучшие практики](lectures/Python05-best_practices.ipynb) (исключения и др)  |  | Иванов И. Е. | 
-| 06            | 13.11.2020    | [Итераторы, генераторы, декораторы](https://github.com/mlcoursemm/py2020autumn/blob/master/lectures/Python06-iterators.ipynb) |  | Иванюта А. С. |
-| 07            | 20.11.2020    | [Pandas](lectures/Python07-pandas.ipynb) | [Pandas](assignments/Assignment_pandas) | Иванов И. Е.  |
+| 06            | 13.11.2020    | [Итераторы, генераторы, декораторы](lectures/Python06-iterators.ipynb) |  | Иванюта А. С. |
+| 07            | 20.11.2020    | [Pandas](lectures/Python07-pandas.ipynb) | [Pandas](assignments/Assignment_pandas/pandas_task.pdf) | Иванов И. Е.  |
 | 08            | 27.11.2020    | Matplotlib / seaborn + разведывательный анализ                                        |  |  |
 | 09            | 04.12.2020    | Работа с изображениями: opencv (cv::mat), scikit-image, PIL                                          |  |  |
 | 10            | 11.12.2020    | Дополнительные главы: параллельное программирование, web                           |                  |  |
