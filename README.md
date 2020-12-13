@@ -40,7 +40,7 @@
 | 07            | 20.11.2020    | [Pandas](lectures/Python07-pandas.ipynb) | [Pandas](assignments/Assignment_pandas/pandas_task.pdf) | Иванов И. Е.  |
 | 08            | 27.11.2020    | [Matplotlib, Seaborn + разведывательный анализ](lectures/Python08-matplotlib.ipynb)|  | Корвяков В. П. |
 | 09            | 04.12.2020    | [Работа с изображениями: PIL, Skimage, OpenCV](lectures/Python09-OpenCV.ipynb) | [OpenCV](assignments/Assignment03.ipynb) | Иванюта А. С. |
-| 10            | 11.12.2020    | Дополнительные главы: параллельное программирование, web                           |                  | Петюшко А. А. |
+| 10            | 11.12.2020    | [Дополнительные главы: параллельное программирование, http-запросы](lectures/Python10-Parallel.ipynb) |                  | Петюшко А. А. |
 
 ## <a name="lit" /> Список литературы
 1.	Lutz, Mark. Learning python: Powerful object-oriented programming. O'Reilly Media, Inc., 5th Edition, 2013.
