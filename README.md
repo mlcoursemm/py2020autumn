@@ -10,6 +10,7 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
+* (2020-12-04) Выложено третье [домашнее задание](assignments/Assignment03.ipynb) по OpenCV
 * (2020-11-20) Выложено второе [домашнее задание](assignments/Assignment_pandas/pandas_task.pdf) по Pandas
 * (2020-10-30) Выложено первое [домашнее задание](assignments/Assignment01.ipynb) по классификации и регрессии, а также минимальный [поясняющий материал](assignments/Assignment01_extra/theory_sgd_regression.pdf) к нему
 * (2020-09-29) Создан данный репозиторий
